@@ -1,0 +1,15 @@
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\bin\Debug\net6.0\task19.exe
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\bin\Debug\net6.0\task19.deps.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\bin\Debug\net6.0\task19.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\bin\Debug\net6.0\task19.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\task19.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\refint\task19.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\task19.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task19\obj\Debug\net6.0\ref\task19.dll

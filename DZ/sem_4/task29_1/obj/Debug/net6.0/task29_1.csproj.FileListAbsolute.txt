@@ -1,0 +1,15 @@
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\bin\Debug\net6.0\task29_1.exe
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\bin\Debug\net6.0\task29_1.deps.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\bin\Debug\net6.0\task29_1.runtimeconfig.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\bin\Debug\net6.0\task29_1.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\bin\Debug\net6.0\task29_1.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\task29_1.csproj.AssemblyReference.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\task29_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\task29_1.AssemblyInfoInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\task29_1.AssemblyInfo.cs
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\task29_1.csproj.CoreCompileInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\task29_1.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\refint\task29_1.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\task29_1.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\task29_1.genruntimeconfig.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_4\task29_1\obj\Debug\net6.0\ref\task29_1.dll

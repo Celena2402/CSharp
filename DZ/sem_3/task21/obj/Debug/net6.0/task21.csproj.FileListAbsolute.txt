@@ -1,0 +1,15 @@
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\task21.csproj.AssemblyReference.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\task21.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\task21.AssemblyInfoInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\task21.AssemblyInfo.cs
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\task21.csproj.CoreCompileInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\bin\Debug\net6.0\task21.exe
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\bin\Debug\net6.0\task21.deps.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\bin\Debug\net6.0\task21.runtimeconfig.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\bin\Debug\net6.0\task21.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\bin\Debug\net6.0\task21.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\task21.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\refint\task21.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\task21.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\task21.genruntimeconfig.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\DZ\sem_3\task21\obj\Debug\net6.0\ref\task21.dll
