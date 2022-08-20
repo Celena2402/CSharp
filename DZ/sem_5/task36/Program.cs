@@ -14,7 +14,7 @@ void RandomArray(int[] array)
     for (int i = 0; i < arr.Length; i++)
     {
         Random rnd = new Random();          //Создание объекта для генерации чисел
-        int value = rnd.Next(1,20);          //Получить случайное число
+        int value = rnd.Next(-99,99);          //Получить случайное число
         arr[i] = value;
         Console.Write($"{arr[i]} ");
     }
