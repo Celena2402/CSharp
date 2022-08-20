@@ -1,0 +1,15 @@
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\bin\Debug\net6.0\task28.exe
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\bin\Debug\net6.0\task28.deps.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\bin\Debug\net6.0\task28.runtimeconfig.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\bin\Debug\net6.0\task28.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\bin\Debug\net6.0\task28.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\task28.csproj.AssemblyReference.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\task28.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\task28.AssemblyInfoInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\task28.AssemblyInfo.cs
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\task28.csproj.CoreCompileInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\task28.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\refint\task28.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\task28.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\task28.genruntimeconfig.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\seminar\seminar_1\sem_4\task28\obj\Debug\net6.0\ref\task28.dll

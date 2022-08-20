@@ -1,0 +1,15 @@
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\task9.csproj.AssemblyReference.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\task9.AssemblyInfoInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\task9.AssemblyInfo.cs
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\task9.csproj.CoreCompileInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\bin\Debug\net6.0\task9.exe
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\bin\Debug\net6.0\task9.deps.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\bin\Debug\net6.0\task9.runtimeconfig.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\bin\Debug\net6.0\task9.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\bin\Debug\net6.0\task9.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\task9.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\refint\task9.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\task9.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\task9.genruntimeconfig.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task9\obj\Debug\net6.0\ref\task9.dll

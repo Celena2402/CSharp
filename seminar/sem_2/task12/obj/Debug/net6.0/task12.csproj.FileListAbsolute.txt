@@ -1,0 +1,15 @@
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\task12.csproj.AssemblyReference.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\task12.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\task12.AssemblyInfoInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\task12.AssemblyInfo.cs
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\task12.csproj.CoreCompileInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\bin\Debug\net6.0\task12.exe
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\bin\Debug\net6.0\task12.deps.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\bin\Debug\net6.0\task12.runtimeconfig.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\bin\Debug\net6.0\task12.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\bin\Debug\net6.0\task12.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\task12.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\refint\task12.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\task12.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\task12.genruntimeconfig.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task12\obj\Debug\net6.0\ref\task12.dll

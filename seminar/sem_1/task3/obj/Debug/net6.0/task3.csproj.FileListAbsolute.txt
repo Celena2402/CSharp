@@ -1,0 +1,15 @@
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\bin\Debug\net6.0\task3.exe
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\bin\Debug\net6.0\task3.deps.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\bin\Debug\net6.0\task3.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\bin\Debug\net6.0\task3.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\task3.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\refint\task3.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\task3.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\семинары\seminar_1\task3\obj\Debug\net6.0\ref\task3.dll
