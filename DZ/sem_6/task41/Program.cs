@@ -10,6 +10,7 @@ Console.WriteLine("Сколько чисел будет вводиться? ");
 int leng=Convert.ToInt32(Console.ReadLine());
 
 int [] Array=new int[leng];
+
 int i=0;
 while (i<leng)
 {
@@ -35,32 +36,3 @@ for (i=0; i<leng; i++)
     }
 }
 Console.WriteLine($"Количество положительных чисел = {kol}");
-
-
-/*
-void VvodNumber(int leng)
-{
-int i=0;
-int[] Array=new int[leng];
-while (i<leng)
-{
-    Console.Write($"Введите {i} элемент = ");
-    Array[i]=int.Parse(Console.ReadLine());
-    i++;
-}
-
-}
-
-void PrintArray(int[] Array)
-{
-    for (i=0; i<leng; i++)
-    {
-        Console.Write($" "+ Array[i]+ " ");
-    }
-}
-
-
-int [] Array=new VvodNumber[leng];
-Console.Write($"Ввели {leng} таких чисел: ");
-PrintArray(Array);
-*/
