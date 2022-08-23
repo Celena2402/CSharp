@@ -23,7 +23,7 @@ double y=(k1*b2-k2*b1) / (k1-k2);
 Console.WriteLine($"Точка пересечения Р будет иметь координаты Р({x};{y})");
 */
 
-void Tochka (double b1, double b2, double k1, double k2)
+void Point (double b1, double b2, double k1, double k2)
 {
     double x=(b2-b1) / (k1-k2);
     double y=(k1*b2-k2*b1) / (k1-k2);
@@ -44,4 +44,4 @@ void Tochka (double b1, double b2, double k1, double k2)
     }
 }
 
-Tochka(b1, b2, k1, k2);
+Point(b1, b2, k1, k2);
