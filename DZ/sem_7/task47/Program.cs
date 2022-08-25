@@ -24,7 +24,7 @@ double[,] GetArray(int m, int n, double min, double max)
     {
         for (int j=0; j<n; j++)
         {
-            array[i,j]=Math.Round((new Random().NextDouble()* (max - min) + min),2);
+            array[i,j]=Math.Round((new Random().NextDouble()* (max - min) + min),1);
             //double random = new Random().NextDouble() * (max - min) + min;
             //array[i,j] = Math.Round(random, 2);    
         }
