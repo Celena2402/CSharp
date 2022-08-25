@@ -35,11 +35,12 @@ for(int j = 0; j < i; j++)
 number = number / 2;
 } 
 int[] ReversArray(int[] inArray)
-{ int[] result = new int[inArray.Length]; 
-for(int i = 0; i < inArray.Length; i++) 
 { 
-    result[i] = inArray[inArray.Length -1 -i]; 
-} 
+    int[] result = new int[inArray.Length]; 
+    for(int i = 0; i < inArray.Length; i++) 
+    { 
+       result[i] = inArray[inArray.Length -1 -i]; 
+    } 
 return result;
 } 
 int[] reversArray = ReversArray(array); //Переворачиваем 
