@@ -1,7 +1,9 @@
 ﻿/*
  Задача 50: 
- Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и
- возвращает значение этого элемента или же указание, что такого элемента нет.
+ Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, 
+ и возвращает значение этого элемента или же указание, что такого элемента нет.
+ (на вход именно поступает позиция элемента, можете разбить на две переменные или 
+ прописать в одну строку и конвертировать в два числа, комментарии в конце семинара по этой задаче)
  Например, задан массив:
  1 4 7 2
  5 9 2 3
@@ -45,29 +47,31 @@ void PrintArray(int[,] array)
     }
 }
 
+Console.Write("Введите номер индекса строки в массиве = ");
+int indexI=Convert.ToInt32(Console.ReadLine());
 
-/*
-Console.Write("Введите нужное число = ");
-int num=Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите номер индекса столбца массива = ");
+int indexJ=Convert.ToInt32(Console.ReadLine());
 
-Number(num);
+//int[,] array=
+IndexNumber(indexI,indexJ,array);
 
-void Number(int num)
-{
-    
-    for (int i=0;i<array.GetLength(0);i++)
-    {
-        for (int j=0; j<array.GetLength(1);j++)
-        {
-            if (array[i,j]==num)
-            {
-                Console.WriteLine($"Это число есть в массиве.");
-            }
-            else
-            {
-                Console.WriteLine($"Такого числа в массиве нет.");
-            }
-        }
+void IndexNumber(int indexI, int indexJ, int[,] array) {
+    if (indexI<array.GetLength(0) && indexJ<array.GetLength(1)){
+        Console.WriteLine($"Элемент массива который стоит на месте ({indexI};{indexJ}) равен {array[indexI,indexJ]}");
     }
+    else{
+        Console.WriteLine("Такого элемента нет и вы возможно ввели не правильное место.");
+    }
+
 }
+/*
+int res=array[indexI,indexJ];
+
+if (indexI>=0 && indexJ>=0 && indexI<array.GetLength(0) && indexJ<array.GetLength(1)) {
+        Console.WriteLine($"Элемент массива который стоит на месте ({indexI};{indexJ}) равен {res}");
+}
+else {
+        Console.WriteLine("Такого элемента нет и вы возможно ввели не правильное место.");
+    }   
 */
