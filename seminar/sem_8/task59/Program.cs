@@ -14,51 +14,82 @@
 2 2 6
 3 4 7
 */
-Console.Clear();
-Console.Write("Введите количество строк в массиве= ");
-int n=Convert.ToInt32(Console.ReadLine());
-
-Console.Write("Введите количество столбцов в массиве= ");
-int m=Convert.ToInt32(Console.ReadLine());
-
-int[,] array=NewArray(n,m,1,10);
-PrintArray(array);
-Console.WriteLine();
-
-int[,] NewArray(int n, int m, int min, int max)
+int[,] FillArray(int rowNumber, int columnNumber)
 {
-    int[,] array=new int[n,m];
-    for (int i=0; i<n;i++)    {
-        for (int j=0;j<m;j++)        {
-            array[i,j]=new Random().Next(min,max);
+    int[,] result = new int[rowNumber, columnNumber];
+    for (int i = 0; i < rowNumber; i++)
+    {
+        for (int j = 0; j < columnNumber; j++)
+        {
+            result[i, j] = new Random().Next(1, 20);
+            Console.Write($"{result[i, j]} \t");
         }
+        Console.WriteLine();
     }
-    return array;
+    return result;
 }
 
-void PrintArray(int[,] array)
+int[] FindMinimumNumber(int[,] array)
 {
-    for (int i=0;i<array.GetLength(0);i++)    {
-        for (int j=0;j<array.GetLength(1);j++)        {
-            Console.Write($"{array[i,j]}\t ");
+    int[] result = new int[2];
+    int minimum = array[0, 0];
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            if (array[i, j] < minimum)
+            {
+                minimum = array[i, j];
+                result[0] = i;
+                result[1] = j;
+            }
+
+        }
+
+    }
+    return result;
+}
+
+int[,] FillNewArray(int[,] array, int[] minimumCoordinates)
+{
+    int[,] result = new int[array.GetLength(0) - 1, array.GetLength(1) - 1];
+    int k = 0;
+    int l = 0;
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        if (i == minimumCoordinates[0]) continue;
+        {
+            for (int j = 0; j < array.GetLength(1); j++)
+            {
+                if (j == minimumCoordinates[1]) continue;
+                result[k, l] = array[i, j];
+                l++;
+            }
+            k++;
+            l=0;
+        }
+
+    }
+    return result;
+}
+
+void PrintArray(int[,] newArray)
+{
+    for (int i = 0; i <newArray.GetLength(0) ; i++)
+    {
+        for (int j = 0; j < newArray.GetLength(1); j++)
+        {
+            Console.Write($"{newArray[i, j]} \t");
         }
         Console.WriteLine();
     }
 }
 
-void MinNumber(int[,] array)
-{
-   // int min=0;
-    for (int i=0; i<n;i++)    {
-        for (int j=0;j<m;j++)     {
-            int min=array[1,1];
-            if (array[i,j]<min) {
-                min=array[i,j];
-            }
-        }
-    }
-    //return array;
-    Console.WriteLine($"min={min}");
-}
-
-MinNumber(array);
+int rowNumber = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+int columnNumber = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+Console.WriteLine();
+int[,] array = FillArray(rowNumber, columnNumber);
+int[] minimumCoordinates = FindMinimumNumber(array);
+int [,] newArray =  FillNewArray(array, minimumCoordinates);
+Console.WriteLine();
+PrintArray (newArray);
