@@ -34,37 +34,46 @@ void PrintArray(int[,] array)
     }
 }
 
-
-int[,] ProductTwoMatrices (int[,] arrayOne, int[,] arrayTwo)
+void MultiplicationTwoMatrices (int[,] arrayOne, int[,] arrayTwo, int[,] arrayThree)
 {
-    int[,] arrayThree=new int[arrayOne.GetLength(0)-1, arrayTwo.GetLength(1) - 1];
+    //int[,] arrayThree=new int[arrayOne.GetLength(0), arrayTwo.GetLength(1)];
     for (int i=0; i<arrayOne.GetLength(0);i++)
     {
         for (int j=0; j<arrayTwo.GetLength(1);j++)
         {
-            arrayThree[i,j]=arrayOne[i,1]*arrayTwo[1,j]
-
+            int sum=0;
+            for (int k=0; k<arrayOne.GetLength(1);k++)
+            {
+                sum=sum+arrayOne[i,k]*arrayTwo[k,j];
+            }
+            arrayThree[i,j]=sum;
         }
     }
-    
+    //return arrayThree;
 }
 
-
-Console.Write("Введите количество строк в 1-ом массиве= ");
+Console.Write("Введите количество строк в матрице А: l= ");
 int l=Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите количество столбцов в 1-ом в массиве= ");
+Console.Write("Введите количество столбцов в матрице А: m= ");
 int m=Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine($"Количество строк должно быть равно количеству столбцов первого массива и равно= {m}");
-Console.Write("Введите количество столбцов во 2-ом в массиве= ");
+Console.WriteLine($"Количество строк матрицы В должно быть равно количеству столбцов матрицы А: m= {m}");
+Console.Write("Введите количество столбцов в матрице В: n= ");
 int n=Convert.ToInt32(Console.ReadLine());
 
 int[,] arrayOne=NewArray(l,m,0,10);
 int[,] arrayTwo=NewArray(m,n,0,10);
-Console.WriteLine("Первый массив:");
+//int[,] arrayThree=NewArray(l,n,0,1000);
+int[,] arrayThree=new int[arrayOne.GetLength(0), arrayTwo.GetLength(1)];
+Console.WriteLine("Первая матрица А:");
 PrintArray(arrayOne);
-Console.WriteLine("Второй массив:");
+Console.WriteLine();
+
+Console.WriteLine("Вторая матрица В:");
 PrintArray(arrayTwo);
 Console.WriteLine();
-//SumMin(array);
+
+Console.WriteLine("Произведение матриц А и В :");
+MultiplicationTwoMatrices(arrayOne,arrayTwo, arrayThree);
+PrintArray(arrayThree);
