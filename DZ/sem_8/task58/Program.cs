@@ -36,7 +36,6 @@ void PrintArray(int[,] array)
 
 void MultiplicationTwoMatrices (int[,] arrayOne, int[,] arrayTwo, int[,] arrayThree)
 {
-    //int[,] arrayThree=new int[arrayOne.GetLength(0), arrayTwo.GetLength(1)];
     for (int i=0; i<arrayOne.GetLength(0);i++)
     {
         for (int j=0; j<arrayTwo.GetLength(1);j++)
@@ -48,8 +47,7 @@ void MultiplicationTwoMatrices (int[,] arrayOne, int[,] arrayTwo, int[,] arrayTh
             }
             arrayThree[i,j]=sum;
         }
-    }
-    //return arrayThree;
+    }    
 }
 
 Console.Write("Введите количество строк в матрице А: l= ");
@@ -64,7 +62,6 @@ int n=Convert.ToInt32(Console.ReadLine());
 
 int[,] arrayOne=NewArray(l,m,0,10);
 int[,] arrayTwo=NewArray(m,n,0,10);
-//int[,] arrayThree=NewArray(l,n,0,1000);
 int[,] arrayThree=new int[arrayOne.GetLength(0), arrayTwo.GetLength(1)];
 Console.WriteLine("Первая матрица А:");
 PrintArray(arrayOne);
