@@ -12,24 +12,23 @@ int numberM=Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число N= ");
 int numberN=Convert.ToInt32(Console.ReadLine());
 
-string NumberRec(int numberM, int numberN)
+if (numberN % 2 !=0)
 {
-    if (numberN>numberM)
+    numberN=numberN-1;
+}
+
+int sum(int numberM, int numberN)
+{    
+    if (numberM<=numberN)
     {
-        return $" {numberM} " + NumberRec(numberM+1, numberN);
+        return numberN + sum(numberM,numberN-2);
     }
     else
     {
-        return $"{numberN}";
+        return 0;
     }
 }
-Console.WriteLine(NumberRec(numberM,numberN));
+Console.WriteLine($"Сумма четных чисел в промежутке от М={numberM} до N={numberN} равна {sum(numberM,numberN)} ");
+//Console.WriteLine(sum(numberM,numberN));
 
-/*
-int Sum(int n)
-{
-    if(n==0) return 0;
-    else return n%10+Sum(n/10);
-}
-Console.WriteLine(Sum(n));
-*/
+
