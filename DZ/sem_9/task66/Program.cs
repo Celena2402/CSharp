@@ -11,7 +11,7 @@ int numberM=Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите число N= ");
 int numberN=Convert.ToInt32(Console.ReadLine());
-
+/* 
 if (numberN % 2 !=0)
 {
     numberN=numberN-1;
@@ -28,7 +28,25 @@ int sum(int numberM, int numberN)
         return 0;
     }
 }
+*/
+int sum(int numberM, int numberN)
+{
+    if (numberM<=numberN)
+    {
+        if (numberN%2==0)
+        {
+            return numberN + sum(numberM, numberN-2);
+        }
+        else
+        {
+            numberN=numberN-1;
+            return numberN+sum(numberM, numberN-2);
+        }        
+    }
+    else
+    {
+        return 0;
+    }
+}
 Console.WriteLine($"Сумма четных чисел в промежутке от М={numberM} до N={numberN} равна {sum(numberM,numberN)} ");
 //Console.WriteLine(sum(numberM,numberN));
-
-
